@@ -1,1 +1,1 @@
-"this is my first test ruby script"
+puts "this is my first test ruby script"
