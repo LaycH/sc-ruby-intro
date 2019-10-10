@@ -7,9 +7,11 @@ puts "Your number is #{number}.""
 -=4
 /=2
 
-print .to_s
+---
 
-finalNumber = #
+print --- .to_s
+
+finalNumber = ---
 
 puts "Your Final number is #{finalNumber}"
 
